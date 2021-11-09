@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a Frontend Engineer from Germany, currently working at Staffbase.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
